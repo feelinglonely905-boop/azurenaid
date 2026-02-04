@@ -1,5 +1,4 @@
-// scripts.js
-
+// js/scripts.js
 function searchFilter() {
     const input = document.getElementById('search-input').value.toLowerCase();
     const items = document.querySelectorAll('.grid-item');
