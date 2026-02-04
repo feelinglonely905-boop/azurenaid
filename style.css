@@ -1,4 +1,4 @@
-/* style.css */
+/* css/style.css */
 body {
     margin: 0;
     font-family: 'Arial', sans-serif;
@@ -114,7 +114,6 @@ footer img:hover {
     width: 200px;
 }
 
-/* Chapter reader layout */
 .chapter-container {
     display: flex;
     flex-direction: column;
@@ -125,5 +124,5 @@ footer img:hover {
 .chapter-container img {
     max-width: 80%;
     border-radius: 5px;
-  }
-  
+    }
+        
